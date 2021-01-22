@@ -6,8 +6,8 @@
 # Author:  Dr. Sebastian Radestock, Elsevier
 # Author:  Dr. Alexander Riemer, Elsevier
 # Author:  Dr. Markus Fischer, Elsevier
-# Author: Dr. Anton Yuryev, Elsevier
-# Date:    July 26th, 2019
+# Author:  Dr. Anton Yuryev, Elsevier
+# Date:    January 21st, 2021
 # Change Log 1.2.0-beta.1, January 21st, 2021
 # A. support for local session file
 # B. GetCompoundProps annotates compounds with Reaxys fields
