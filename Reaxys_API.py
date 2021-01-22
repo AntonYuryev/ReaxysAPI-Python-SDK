@@ -1,12 +1,17 @@
 # -*- coding: utf-8 -*-
 # Python wrapper for the Reaxys API
 #
-# Version: 1.1.0-beta.2
+# Version: 1.2.0-beta
 #
 # Author:  Dr. Sebastian Radestock, Elsevier
 # Author:  Dr. Alexander Riemer, Elsevier
 # Author:  Dr. Markus Fischer, Elsevier
+# Author: Dr. Anton Yuryev, Elsevier
 # Date:    July 26th, 2019
+# Change Log 1.2.0-beta.1, January 21st, 2021
+# A. support for local session file
+# B. GetCompoundProps annotates compounds with Reaxys fields
+#
 # Change Log 1.1.0-beta.1, July 26th, 2019
 # A. Support for Python 3
 # B. get_field_content modifications
